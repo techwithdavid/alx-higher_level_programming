@@ -7,4 +7,4 @@ for _ in range(1, 100):
     elif _%3==0 and _%5==0:
         print("FizzBuzz", end=" ")
     else:
-        print("{:d}".format(i), end=" ")
+        print("{:d}".format(_), end=" ")
