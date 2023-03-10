@@ -9,7 +9,7 @@ if __name__ == "__main__":
     if length == 0:
         print("0 arguments.")
     elif length == 1:
-        print("{} argument.".format(length))
+        print("{} argument:".format(length))
     else:
         print("{} arguments.".format(length))
 
