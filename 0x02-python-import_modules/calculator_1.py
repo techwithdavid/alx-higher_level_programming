@@ -10,7 +10,7 @@ def add(a, b):
         The return value: a + b
     """
     
-    return (a +)
+    return (a + b)
 
 
 def sub(a, b):
